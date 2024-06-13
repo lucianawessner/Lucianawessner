@@ -13,33 +13,25 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
     steps:
       - name: Checkout do código
         uses: actions/checkout@v2  # Certifique-se de estar usando a versão mais recente
 
-      - name: Configurar Git
+      - name: Debug informações do ambiente
         run: |
-          git config --global user.email "you@example.com"
-          git config --global user.name "Your Name"
+          echo "Informações do ambiente:"
+          echo "  Diretório atual: $(pwd)"
+          echo "  Conteúdo do diretório: $(ls -l)"
 
       - name: Gerar github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Adicionar e commit das alterações
         run: |
-          cd dist  # Mude para o diretório onde os arquivos foram gerados
-          git init
-          git add .
-          git commit -m "Atualizando SVG"
+          echo "Iniciando a geração do SVG..."
+          # Adicione aqui os comandos para gerar o SVG
 
-      - name: Push para o branch de saída
-        run: |
-          git push --force "https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" master:output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Debug status do Git
+        run: git status
+
+      - name: Verificar versão do Node.js
+        run: node --version
+

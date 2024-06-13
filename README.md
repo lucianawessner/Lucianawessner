@@ -1,15 +1,19 @@
 <div align= "center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=15&pause=2000&duration=3000&color=79D9F9&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%8C%90+Seja+bem-vindo%2C++ao+meu+mundinho+virtual!+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" /></a>   
-  
+
 Sou estudante do 4º período de Análise e Desenvolvimento de Sistemas na Universidade Tuiti do Paraná. Atualmente, atuo como estagiária em desenvolvimento focado em firmware, envolvendo intensas atividades de pesquisa, descriptografia e aplicação de linguagens de programação. Tenho um forte interesse em expandir meus conhecimentos e aprender sobre desenvolvimento Front-End, Back-End e, eventualmente, explorar o campo Full Stack. Estou constantemente buscando aprimorar meu entendimento e habilidades na área de tecnologia.
 
 #
 
- <div>
+<div style="text-align: center;" align="center">
+  <h3>* GitHub Stats *</h3>
+  <br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lucianawessner&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
+
   <a href="https://github.com/Lucianawessner">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucianawessner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucianawessner&layout=compact&langs_count=16&theme=dracula"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lucianawessner&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
+  </a>
 </div>
 
 <div style="display: inline_block"><br>

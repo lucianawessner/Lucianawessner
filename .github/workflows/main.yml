@@ -1,13 +1,13 @@
 on:
-  schedule:
-    - cron: "0 */24 * * *"
-  workflow_dispatch:
   push:
     branches:
       - master
-
-jobs:
-  generate:
+  pull_request:
+    branches:
+      - master
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
     permissions:
       contents: write
     runs-on: ubuntu-latest

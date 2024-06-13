@@ -20,14 +20,16 @@ Sou estudante do 4º período de Análise e Desenvolvimento de Sistemas na Unive
 
 <h3 align="left">Conhecimentos: </h3>
 
+<img aligh="center" alt="" src="">
+
 <div align="left">
-  <img align="center" alt="Luh-Js" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-  <img align="center" alt="Luh-Ts" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
-  <img align="center" alt="Luh-React" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
-  <img align="center" alt="Luh-HTML" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Luh-CSS" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Luh-Python" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Luh-Csharp" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Luh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+  <img align="center" alt="Luh-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
+  <img align="center" alt="Luh-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
+  <img align="center" alt="Luh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Luh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Luh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Luh-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Luh-yoda" src="https://discord.com/channels/1250817504989679757/1250820234667884555/1250820614499860742.gif">
 </div><br>
 

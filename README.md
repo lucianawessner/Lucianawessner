@@ -19,6 +19,8 @@ Sou estudante do 4º período de Análise e Desenvolvimento de Sistemas na Unive
 
 #
 
+<img align="right" alt="" height="190px" src="./src/study.gif">
+
 <h3 align="left">Conhecimentos: </h3>
 
 <div align="left">
@@ -32,7 +34,7 @@ Sou estudante do 4º período de Análise e Desenvolvimento de Sistemas na Unive
   <img align="right" alt="Luh-yoda" src="https://discord.com/channels/1250817504989679757/1250820234667884555/1250820614499860742.gif">
 </div><br>
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="left">Midia Social: </h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF&color:FFF)](mailto:lucianawessner@hotmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/luuh_wes/)

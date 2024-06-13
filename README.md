@@ -19,7 +19,7 @@ Sou estudante do 4º período de Análise e Desenvolvimento de Sistemas na Unive
 
 #
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<img align="right" alt="" height="190px" src="./src/Design .gif">
 
 <h3 align="left">Conhecimentos: </h3>
 

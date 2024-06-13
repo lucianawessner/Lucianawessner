@@ -1,6 +1,7 @@
 <div align= "center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=15&pause=2000&duration=3000&color=79D9F9&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%8C%90+Seja+bem-vindo%2C++ao+meu+mundinho+virtual!+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" /></a>   
+    <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=15&pause=2000&duration=3000&color=79D9F9&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%8C%90+Seja+bem-vindo%2C++ao+meu+mundinho+virtual!+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG"/></a>
+</div>  
 
 Sou estudante do 4º período de Análise e Desenvolvimento de Sistemas na Universidade Tuiti do Paraná. Atualmente, atuo como estagiária em desenvolvimento focado em firmware, envolvendo intensas atividades de pesquisa, descriptografia e aplicação de linguagens de programação. Tenho um forte interesse em expandir meus conhecimentos e aprender sobre desenvolvimento Front-End, Back-End e, eventualmente, explorar o campo Full Stack. Estou constantemente buscando aprimorar meu entendimento e habilidades na área de tecnologia.
 
@@ -20,8 +21,6 @@ Sou estudante do 4º período de Análise e Desenvolvimento de Sistemas na Unive
 
 <h3 align="left">Conhecimentos: </h3>
 
-<img aligh="center" alt="" src="">
-
 <div align="left">
   <img align="center" alt="Luh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
   <img align="center" alt="Luh-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
@@ -33,22 +32,13 @@ Sou estudante do 4º período de Análise e Desenvolvimento de Sistemas na Unive
   <img align="right" alt="Luh-yoda" src="https://discord.com/channels/1250817504989679757/1250820234667884555/1250820614499860742.gif">
 </div><br>
 
-<h3 align="left">Rede Social: </h3>
+<h3 align="left">Connect with me!</h3>
 
-<div align="left">
-  <a href="mailto:lucianawessner@hotmail.com">
-    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF&color:FFF" alt="E-mail">
-  </a>
-  <a href="https://www.instagram.com/luuh_wes/">
-    <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF" alt="Instagram">
-  </a>
-  <a href="https://discord.com/channels/@_luzinha_a/">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&color=black" alt="Discord">
-  </a>
-  <a href="https://www.linkedin.com/in/luciana-wessner-4b6226168//">
-    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color:FFF" alt="LinkedIn">
-  </a>
-</div>
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF&color:FFF)](mailto:lucianawessner@hotmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/luuh_wes/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&color=black)](https://discord.com/channels/@_luzinha_a/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color:FFF)](https://www.linkedin.com/in/luciana-wessner-4b6226168//)
+
 
 ##  
 

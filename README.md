@@ -38,6 +38,7 @@ Sou estudante do 4º período de Análise e Desenvolvimento de Sistemas na Unive
   <img align="right" alt="Luh-yoda" src="https://discord.com/channels/1250817504989679757/1250820234667884555/1250820614499860742.gif">
 </div><br>
 
+
 <h3 align="left">Midia Social: </h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF&color:FFF)](mailto:lucianawessner@hotmail.com)

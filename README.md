@@ -6,7 +6,7 @@
 Sou estudante do 5º período de Análise e Desenvolvimento de Sistemas na Universidade Tuiti do Paraná. Atualmente, atuo como estagiária em desenvolvimento focado em firmware, envolvendo intensas atividades de pesquisa, descriptografia e aplicação de linguagens de programação. Tenho um forte interesse em expandir meus conhecimentos e aprender sobre desenvolvimento Front-End, Back-End e, eventualmente, explorar o campo Full Stack. Estou constantemente buscando aprimorar meu entendimento e habilidades na área de tecnologia.
 </div><br>
 
-<img align="center" alt="" src="">
+<img align="center" alt="" src="./src/Banner.gif">
 
 #
 
@@ -28,13 +28,13 @@ Sou estudante do 5º período de Análise e Desenvolvimento de Sistemas na Unive
 <h3 align="left">Conhecimentos: </h3>
 
 <div align="left">
-  <img align="center" alt="Luh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-  <img align="center" alt="Luh-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
-  <img align="center" alt="Luh-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
+  <img align="center" alt="Luh-Js" height="30" width="30" src="https://img.icons8.com/?size=100&id=j9DnICNnlhGk&format=png&color=000000">
   <img align="center" alt="Luh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Luh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Luh-Ts" height="30" width="30" src="https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000">
   <img align="center" alt="Luh-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Luh-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
+  <img align="center" alt="Luh-Python" height="38" width="38" src="https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png&color=000000">
   <img align="right" alt="Luh-yoda" src="https://discord.com/channels/1250817504989679757/1250820234667884555/1250820614499860742.gif">
 </div><br>
 

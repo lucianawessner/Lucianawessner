@@ -6,7 +6,7 @@
 Sou estudante do 5º período de Análise e Desenvolvimento de Sistemas na Universidade Tuiti do Paraná. Atualmente, atuo como estagiária em desenvolvimento focado em firmware, envolvendo intensas atividades de pesquisa, descriptografia e aplicação de linguagens de programação. Tenho um forte interesse em expandir meus conhecimentos e aprender sobre desenvolvimento Front-End, Back-End e, eventualmente, explorar o campo Full Stack. Estou constantemente buscando aprimorar meu entendimento e habilidades na área de tecnologia.
 </div><br>
 
-<img align="center" alt="" src="./src/Banner.gif">
+<img align="center" alt="" src="">
 
 #
 

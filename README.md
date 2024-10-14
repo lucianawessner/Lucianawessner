@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=15&pause=2000&duration=3000&color=79D9F9&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%8C%90+Seja+bem-vindo%2C++ao+meu+mundinho+virtual!+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG"/></a>
 
 
-Sou estudante do 5º período de Análise e Desenvolvimento de Sistemas na Universidade Tuiti do Paraná. Atualmente, atuo como estagiária em desenvolvimento focado em firmware, envolvendo intensas atividades de pesquisa, descriptografia e aplicação de linguagens de programação. Tenho um forte interesse em expandir meus conhecimentos e aprender sobre desenvolvimento Front-End, Back-End e, eventualmente, explorar o campo Full Stack. Estou constantemente buscando aprimorar meu entendimento e habilidades na área de tecnologia.
+Sou estudante do 5º período de Análise e Desenvolvimento de Sistemas na Universidade Tuiti do Paraná. Anteriormente, atuei como estagiária em desenvolvimento com foco em firmware, envolvendo atividades de pesquisa, descriptografia e programação. Tenho grande interesse em expandir meus conhecimentos, especialmente no desenvolvimento Front-End e Back-End, com o objetivo de, eventualmente, me tornar Full Stack. Estou sempre em busca de aprimorar minhas habilidades e aprofundar meu entendimento na área de tecnologia
 </div><br>
 
 <img align="center" alt="" src="./src/Banner.gif">
